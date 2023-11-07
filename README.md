@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋😎
 
 <!--
 **JMI-17/JMI-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 💫 About Me:
+# 💫🧵 About Me:
 🔭 I’m currently working on ALX Software Engineering Program<br>
 👯 I’m looking to collaborate on Cyber and Embedded security Projects<br>
 🤝 I’m looking for help with with Understanding and Implementing Security Frameworks in Application Lifecycle<br>
