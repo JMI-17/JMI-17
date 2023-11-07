@@ -8,8 +8,8 @@
 👯 I’m looking to collaborate on Cyber and Embedded security Projects<br>
 🤝 I’m looking for help with with Understanding and Implementing Security Frameworks in Application Lifecycle<br>
 🌱 I’m currently learning C, C++, JAVA and PYTHON<br>
-💬 Ask me about Cbersecurity<br>
-⚡Fun fact: I used to local Armature Footballer
+💬 Ask me about any related to Cbersecurity, Sports and Global Politics<br>
+⚡Fun fact: I used to be a local Amature Footballer
 
 
 ## 🌐 Socials:
