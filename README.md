@@ -4,10 +4,10 @@
 **JMI-17/JMI-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫🧵 About Me:
-🔭 I’m currently working on ALX Software Engineering Program ⚙📑<br>
+🔭 I’m currently working on DevSecOps projects ⚙📑<br>
 👯 I’m looking to collaborate on Cyber and Embedded security Projects ⚙🛡💻<br>
-🤝 I’m looking for help with with Understanding and Implementing Security Frameworks in Application Lifecycle ⌛⏳<br>
-🌱 I’m currently learning C, C++, JAVA and PYTHON 🏁🏳🏴🏴‍☠️🚩<br>
+🤝 I’m looking for help with Implementing better Security Frameworks in Application Lifecycle and Networks⌛⏳<br>
+🌱 I’m currently Improving venturing into Bug Bounty 🏁🏳🏴🏴‍☠️🚩<br>
 💬 Ask me about any related to Cbersecurity👨‍💻, Sports ⚽🎱🏈 and Global Politics🗿 <br>
 ⚡Fun fact: I used to be a local Amature Footballer
 
